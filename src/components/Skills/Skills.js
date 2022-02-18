@@ -19,7 +19,7 @@ const Skills = () => {
                 ))}
             </div>
 
-            <FooterLink phrase="Get in " link="touch." toAdress="/contact" />
+            <FooterLink phrase="Get in " link="touch." toAdress="#contact" />
         </div>
     );
 };

@@ -63,7 +63,6 @@ const Contact = () => {
                 
             </div>
 
-             <FooterLink phrase="Read more " toAdress="/about" link="about me."/>
         </div>
     );
 };
