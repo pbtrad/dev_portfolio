@@ -37,8 +37,8 @@ export const projectsData = [
     {
         projectName: 'Criptí',
         projectDescription:
-            "",
-        imageUrl: 'src/assets/cripti.png',
+            "An app for sending Ethereum through the blockchain. Built with react and solidity",
+        imageUrl: 'https://github.com/pbtrad/dev_portfolio/blob/master/src/assets/cripti.png?raw=true',
         projectUrl: 'https://cripti.netlify.app/',
     },
 ];
