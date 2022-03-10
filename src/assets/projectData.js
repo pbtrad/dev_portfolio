@@ -34,4 +34,11 @@ export const projectsData = [
         imageUrl: 'https://github.com/pbtrad/ZOOM-CLONE/blob/master/images/Screenshot%20from%202021-10-05%2008-21-52.png?raw=true',
         projectUrl: 'https://pbtrad-react-chat-app.netlify.app/?fbclid=IwAR1huyvNn20tzIWwmQXzfrmtieu5KwFNMVhkibUE6wBMhZMUg8JkAbMxsN4',
     },
+    {
+        projectName: 'Criptí',
+        projectDescription:
+            "",
+        imageUrl: 'src/assets/cripti.png',
+        projectUrl: 'https://cripti.netlify.app/',
+    },
 ];
