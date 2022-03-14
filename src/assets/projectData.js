@@ -37,7 +37,7 @@ export const projectsData = [
     {
         projectName: 'Criptí',
         projectDescription:
-            "An app for sending Ethereum through the blockchain. Built with react and solidity",
+            "An app that connects to your Metamask wallet for sending Ethereum through the blockchain. Built with react and solidity and styled using tailwing css",
         imageUrl: 'https://github.com/pbtrad/dev_portfolio/blob/master/src/assets/cripti.png?raw=true',
         projectUrl: 'https://cripti.netlify.app/',
     },
