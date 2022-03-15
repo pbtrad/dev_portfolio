@@ -6,12 +6,12 @@ const NavBar = () => {
     return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container className="mx-auto">
-  <Navbar.Brand href="#home">Paul Browne</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
-    <Nav className="me-auto">
-      <Nav.Link href="#projects">Projects</Nav.Link>
-      <Nav.Link href="#contact">Contact</Nav.Link>
+    <Nav className="mx-auto">
+      <Nav.Link className="text-white px-5 fs-5" href="#projects">Projects</Nav.Link>
+      <Nav.Link className="text-white px-5 fs-5" href="#contact">Contact</Nav.Link>
+      <Nav.Link className="text-white px-5 fs-5" href="https://github.com/pbtrad">GitHub</Nav.Link>
       
     </Nav>
    

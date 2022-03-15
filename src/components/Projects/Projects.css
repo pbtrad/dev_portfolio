@@ -64,6 +64,15 @@
     color: #7d7987;
 }
 
+
+
+.github-link {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 2px;
+    color: #7d7987;
+}
+
 /* For small width screens */
 @media only screen and (max-width: 640px) {
     .project-cards-container {
