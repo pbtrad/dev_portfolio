@@ -10,7 +10,7 @@ const Home = () => {
         <p className="text-dark fs-4">Full Stack Developer</p>
       </div>
       <div className="img-container pt-5">
-        <img src={profile_pic} alt="snowscene" className="img-fluid"></img>
+        <img src={profile_pic} alt="profile-pic" className="img-fluid"></img>
       </div>
       <div className="head-btns">
         <a href="#projects" className="homepage-btn">
