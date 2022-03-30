@@ -55,4 +55,12 @@ export const projectsData = [
         projectUrl: 'https://pbtrad.github.io/myabode/',
         githubUrl: 'https://github.com/pbtrad/myabode',
     },
+    {
+        projectName: 'Margadh',
+        projectDescription:
+            "A marketplace e-commerce website specializing in arts and crafts. Built with Django using Bulma for styling",
+        imageUrl: 'https://github.com/pbtrad/dev_portfolio/blob/master/src/assets/margadh.png?raw=true',
+        projectUrl: 'https://margadh.herokuapp.com/',
+        githubUrl: 'https://github.com/pbtrad/interiorshop',
+    },
 ];
